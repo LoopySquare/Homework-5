@@ -1,1 +1,2 @@
-# Homework-5
+# Homework-5![planner](https://user-images.githubusercontent.com/85306141/127598186-d3ea454e-b379-4130-bee7-d6adc738369c.PNG)
+This site allows the user to easily plan their day. The time blocks are updated with color to represent past, present and future events. Each time block has an input area and save button. Once the save button is pressed, the entered information will be saved to local storage for that respective time block.
